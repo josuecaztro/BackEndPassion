@@ -1,0 +1,27 @@
+{
+  "annotations": {
+    "changelogDate": "20240823154729"
+  },
+  "applications": ["jhipster"],
+  "fields": [
+    {
+      "fieldName": "messageBody",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "firstName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "lastName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "phoneNumber",
+      "fieldType": "String"
+    }
+  ],
+  "name": "ContactRequest",
+  "relationships": [],
+  "searchEngine": "no"
+}

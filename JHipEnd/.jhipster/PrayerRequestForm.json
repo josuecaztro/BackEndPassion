@@ -1,0 +1,31 @@
+{
+  "annotations": {
+    "changelogDate": "20240823154728"
+  },
+  "applications": ["jhipster"],
+  "fields": [
+    {
+      "fieldName": "description",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "timeFrame",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "firstName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "lastName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "phoneNumber",
+      "fieldType": "String"
+    }
+  ],
+  "name": "PrayerRequestForm",
+  "relationships": [],
+  "searchEngine": "no"
+}

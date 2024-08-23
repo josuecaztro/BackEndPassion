@@ -1,0 +1,18 @@
+application {
+    entities *
+}
+
+entity PrayerRequestForm {
+    description String,
+    timeFrame String,
+	firstName String,
+	lastName String,
+	phoneNumber String
+}
+
+entity ContactRequest {
+    messageBody String,
+	firstName String,
+	lastName String,
+	phoneNumber String
+}

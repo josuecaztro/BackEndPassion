@@ -1,0 +1,28 @@
+{
+  "jhipsterApp": {
+    "prayerRequestForm": {
+      "home": {
+        "title": "Prayer Request Forms",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Prayer Request Form",
+        "createOrEditLabel": "Create or edit a Prayer Request Form",
+        "notFound": "No Prayer Request Forms found"
+      },
+      "created": "A new Prayer Request Form is created with identifier {{ param }}",
+      "updated": "A Prayer Request Form is updated with identifier {{ param }}",
+      "deleted": "A Prayer Request Form is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Prayer Request Form {{ id }}?"
+      },
+      "detail": {
+        "title": "Prayer Request Form"
+      },
+      "id": "ID",
+      "description": "Description",
+      "timeFrame": "Time Frame",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phoneNumber": "Phone Number"
+    }
+  }
+}
